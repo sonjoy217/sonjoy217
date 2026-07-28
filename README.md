@@ -5,20 +5,34 @@
 📚 CCNA Training Completed
 🔐 Certified Penetration Testing Engineer (CPTE)
 
-## Skills
--Subnetting
+## 🛠️ Skills
+
 - Routing & Switching
 - VLAN & Inter-VLAN Routing
-- SVI
+- Subnetting
+- Switch Virtual Interface (SVI)
 - OSPF
-- STP
+- Spanning Tree Protocol (STP)
 - EtherChannel
-- ACL
+- Access Control Lists (ACL)
 - DHCP
-- NAT
+- NAT & PAT
 - Cisco Packet Tracer
+- Cisco IOS
+- Wireshark
 - Basic Linux
--Network Troubleshooting
+- Network Troubleshooting
+
+-------
+
+## 📂 Projects
+
+### Enterprise Campus Network
+- Designed a small enterprise network using Cisco Packet Tracer
+- Configured VLANs and Trunk Links
+- Implemented Inter-VLAN Routing
+- Configured Switch Virtual Interfaces (SVIs)
+- Performed Network Troubleshooting
 
 
 ----
@@ -30,5 +44,5 @@
 
 -----
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/sonjoy217
+- LinkedIn: [linkedin.com/in/sonjoy217](https://www.linkedin.com/in/sonjoy217)
 
