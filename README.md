@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sonjoy 👋
 
-<!--
-**sonjoy217/sonjoy217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student
+🌐 Aspiring Network Engineer
+📚 CCNA Training Completed
+🔐 Certified Penetration Testing Engineer (CPTE)
 
-Here are some ideas to get you started:
+## Skills
+-Subnetting
+- Routing & Switching
+- VLAN & Inter-VLAN Routing
+- SVI
+- OSPF
+- STP
+- EtherChannel
+- ACL
+- DHCP
+- NAT
+- Cisco Packet Tracer
+- Basic Linux
+-Network Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+----
+## 📜 Certifications
+- Certified Penetration Testing Engineer (CPTE)
+- CCNA Training Completed
+- 21st Century Employability Skills Program
+
+
+-----
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sonjoy217
+
