@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering Student
 🌐 Aspiring Network Engineer
-📚 CCNA Training Completed
+📚Cisco Certified Network Associate (CCNA) – In Progress
 🔐 Certified Penetration Testing Engineer (CPTE)
 
 ## 🛠️ Skills
@@ -11,34 +11,27 @@
 - VLAN & Inter-VLAN Routing
 - Subnetting
 - Switch Virtual Interface (SVI)
-- OSPF
 - Spanning Tree Protocol (STP)
 - EtherChannel
-- Access Control Lists (ACL)
-- DHCP
-- NAT & PAT
+- -Static Routing
 - Cisco Packet Tracer
-- Cisco IOS
-- Wireshark
 - Basic Linux
-- Network Troubleshooting
 
 -------
 
 ## 📂 Projects
 
-### Enterprise Campus Network
-- Designed a small enterprise network using Cisco Packet Tracer
-- Configured VLANs and Trunk Links
-- Implemented Inter-VLAN Routing
-- Configured Switch Virtual Interfaces (SVIs)
-- Performed Network Troubleshooting
-
+1. Enterprise Campus Switching Network Design for ABC Technology Limited (Simulated)
+   
+-Designed and implemented an enterprise campus network for 4 departments using 1 Layer 3 switch, 2 Layer 2 access switches, and 8 end devices.
+-Configured VLANs, IEEE 802.1Q trunking, STP, SVIs, Inter-VLAN Routing, and Layer 3 switching.
+-Implemented EtherChannel (LACP) for link redundancy and bandwidth optimization.
+-Verified end-to-end network connectivity using ICMP (Ping).
 
 ----
 ## 📜 Certifications
 - Certified Penetration Testing Engineer (CPTE)
-- CCNA Training Completed
+-Cisco Certified Network Associate (CCNA) – In Progress
 - 21st Century Employability Skills Program
 
 
